@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/0sq9bv8e22v5c6fh/branch/main?svg=true)](https://ci.appveyor.com/project/wsch1/silenium/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/3ttpremt3h3avluh/branch/main?svg=true)](https://ci.appveyor.com/project/wsch1/selenide/branch/main)
