@@ -18,6 +18,8 @@ public class AppCardDeliveryTaskOneTest {
         return LocalDate.now().plusDays(addDays).format(DateTimeFormatter.ofPattern(pattern));
     }
     @Test
+
+
     void shouldBeSuccessfullyComplete1d() {
         open("http://localhost:9999");
         $("[data-test-id='city'] input").setValue("Москва");
@@ -35,3 +37,4 @@ public class AppCardDeliveryTaskOneTest {
     }
 
 }
+
